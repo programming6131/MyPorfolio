@@ -169,5 +169,5 @@ final kContactTitles = [
 final kContactDetails = [
   "Nairobi, Kenya",
   "(+254) 724 821720",
-  "nash@nash.dev"
+  "kimutainashon@gmail.com"
 ];
